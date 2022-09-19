@@ -1,0 +1,4 @@
+UPJ Resolusi
+- Dapat menguasai bahasa C dan Python
+- Memahami konsep materi mata kuliah Kalkulus
+- Membuat portofolio berbasis situs web
